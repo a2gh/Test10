@@ -10,6 +10,7 @@ namespace test10
         static void Main(string[] args)
         {
         Console.WriteLine("1st");
+        Console.WriteLine("2nd");
         }
     }
 }
